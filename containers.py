@@ -4,7 +4,9 @@ print(students[1])
 print(students[-1])
 
 # Exercise 2
-
+foods = ("potato", "tater", "fry")
+for f in foods:
+    print(f"{f} is a good food.")
 
 # Exercise 3
 # Exercise 4
