@@ -12,6 +12,13 @@ for f in foods:
 print(foods[1:])
 
 # Exercise 4
+home_town = {
+    "city": "The Shire",
+    "state": "Hobbiton",
+    "population": "1,000 hobbits"
+}
+print(f"I was born in {home_town['city']}, {home_town['state']} - population of {home_town['population']}")
+
 # Exercise 5
 # Exercise 6
 # Exercise 7
