@@ -24,5 +24,11 @@ for key,val in home_town.items():
     print(f'{key} = {val}')
 
 # Exercise 6
+cohort = []
+for idx, s in enumerate(students):
+    cohortee = {'student': s, 'fav_food': foods[idx]}
+    cohort.append(cohortee)
+print(cohort)
+
 # Exercise 7
 # Exercise 8
