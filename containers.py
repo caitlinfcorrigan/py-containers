@@ -31,4 +31,8 @@ for idx, s in enumerate(students):
 print(cohort)
 
 # Exercise 7
+awesome_students = [s + "is awesome!" for s in students]
+for s in awesome_students:
+    print(s)
+
 # Exercise 8
