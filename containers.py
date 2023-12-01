@@ -9,6 +9,8 @@ for f in foods:
     print(f"{f} is a good food.")
 
 # Exercise 3
+print(foods[1:])
+
 # Exercise 4
 # Exercise 5
 # Exercise 6
