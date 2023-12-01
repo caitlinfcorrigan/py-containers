@@ -36,3 +36,5 @@ for s in awesome_students:
     print(s)
 
 # Exercise 8
+a_foods = [f for f in foods if 'a' in f]
+print(a_foods)
